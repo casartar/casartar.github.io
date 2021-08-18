@@ -30,7 +30,7 @@ Für ein gutes Miteinander und sind ein paar Regeln zu beachten:
 21:00 Uhr: Ende der Veranstaltung
 
 ### Veranstalterin
-Veranstaltierin der Skaternight Landau ist:
+Veranstalterin der Skaternight Landau ist:
 ```
 Kaycee Hesse
 Wallstraße 4
