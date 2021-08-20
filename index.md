@@ -18,7 +18,7 @@ Für Essen und Trinken sorgen die Gastronomen an der Strecke.
 
 ### Regeln
 
-Für ein gutes Miteinander und sind ein paar Regeln zu beachten:
+Für ein gutes Miteinander sind ein paar Regeln zu beachten:
 1. Hört bitte auf die Ordner.
 2. Erlaubte Fahrzeuge sind: Inliner, Cityroller, Skateboards und ähnliches. Motorisierte Fahrzeuge sind nicht erlaubt.
 3. Haltet euch an die Corona Schutzmaßnahmen. (Auf dem Untertorplatz müssen Masken getragen werden; Es ist auf Abstand zu achten etc.)
@@ -33,7 +33,5 @@ Für ein gutes Miteinander und sind ein paar Regeln zu beachten:
 Veranstalterin der Skaternight Landau ist:
 ```
 Kaycee Hesse
-Wallstraße 4
-76829 Landau in der Pfalz`
 hessekaycee-fff@gmx.de
 ```
