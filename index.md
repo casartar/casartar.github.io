@@ -3,8 +3,7 @@ Nach vielen vielen Jahren ist es endlich soweit, dass es in Landau wieder eine S
 
 **Seid dabei - Wir freuen uns auf euch.**
 
-![skaternight_plakat](https://user-images.githubusercontent.com/11074704/129800513-6ead5420-78b0-4812-82c0-23f55535401c.jpeg)
-
+![skaternight_plakat_2](https://user-images.githubusercontent.com/11074704/130321528-fb9685cd-79bb-4204-92c3-79a35ed6b9b0.jpeg)
 
 ### Die Strecke
 
