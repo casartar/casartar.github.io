@@ -1,36 +1,43 @@
 ## Willkommen zur SkaterNight Landau
-Nach vielen vielen Jahren ist es endlich soweit, dass es in Landau wieder eine Skaternight geben wird. Am 27.08.2021 um 18:00 Uhr geht es am Untertorplatz los.
+Nach vielen vielen Jahren ist es endlich soweit, es gibt in Landau wieder eine Skaternight! Am 26.08.2022 um 18:00 Uhr geht es am Untertorplatz los.
 
 **Seid dabei - Wir freuen uns auf euch.**
 
-![skaternight_plakat_2](https://user-images.githubusercontent.com/11074704/130321528-fb9685cd-79bb-4204-92c3-79a35ed6b9b0.jpeg)
+![SkaterNightBannerKomprimiert](https://user-images.githubusercontent.com/11074704/182191581-b50faa70-63e9-4570-a018-a54964b498e3.png)
 
 ### Die Strecke
 
-Die Strecke führ vom Untertorplatz über die Königstraße, Martin-Luther-Straße und Weißquartierstraße immer im Kreis.
+Die Strecke führ vom Untertorplatz über die Königstraße, Reiterstraße und Weißquartierstraße immer im Kreis. Entlang der Strecke gibt es Musik und für Ausschank und Verpflegung sorgen die örtlichen Gastronomen. Am Untertorplatz wird zudem ein Sanitätswagen für medizinische Versorgung bereitstehen.
 
-![Route](https://user-images.githubusercontent.com/11074704/129941638-cfc671b7-893b-4aad-a17a-b68af0425a61.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11074704/182197491-86c89368-3b45-4216-9380-c604340451f1.png" width="25%" />
+</p>
 
-### Verpflegung
+### Zeitplan
 
-Für Essen und Trinken sorgen die Gastronomen an der Strecke.
+17:45 Uhr: Skate-Show am Untertorplatz
+
+18:00 Uhr: Offizieller Start der Veranstaltung auf dem Untertorplatz
+
+18:15 Uhr: Befahren des Innenstadtrings mit Inlinern, Skateboards, Cityrollern. Ausschank und Musik entlang der Strecke.
+
+21:00 Uhr: Ende der Veranstaltung
 
 ### Regeln
 
 Für ein gutes Miteinander sind ein paar Regeln zu beachten:
-1. Hört bitte auf die Ordner.
-2. Erlaubte Fahrzeuge sind: Inliner, Cityroller, Skateboards und ähnliches. Motorisierte Fahrzeuge sind nicht erlaubt.
-3. Haltet euch an die Corona Schutzmaßnahmen. (Auf dem Untertorplatz müssen Masken getragen werden; Es ist auf Abstand zu achten etc.)
+1. Erlaubte Fahrzeuge sind: Inliner, Cityroller, Skateboards und ähnliches. Motorisierte Fahrzeuge und Fahrräder sind nicht erlaubt.
+2. Hört bitte auf die Ordner:innen entlang der Strecke.
+3. Sorgt bitte dafür, dass die Strecke frei von Müll bleibt.
+4. Achtet aufeinander und vor allem auf die Kinder.
 
-### Zeitplan
 
-18:00 Uhr: Start der Veranstaltung auf dem Untertorplatz
-
-21:00 Uhr: Ende der Veranstaltung
 
 ### Veranstalterin
-Veranstalterin der Skaternight Landau ist:
+Veranstalterin der SkaterNight Landau ist:
 ```
 Kaycee Hesse
 hessekaycee-fff@gmx.de
 ```
+
+![UnterstuetztDurch](https://user-images.githubusercontent.com/11074704/182197180-f90a2e64-35b1-48a5-aa5b-ea93e1e32136.png)
