@@ -10,7 +10,7 @@ Nach vielen vielen Jahren ist es endlich soweit, es gibt in Landau wieder eine S
 Die Strecke führ vom Untertorplatz über die Königstraße, Reiterstraße und Weißquartierstraße immer im Kreis. Entlang der Strecke gibt es Musik und für Ausschank und Verpflegung sorgen die örtlichen Gastronomen. Am Untertorplatz wird zudem ein Sanitätswagen für medizinische Versorgung bereitstehen.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/11074704/182197491-86c89368-3b45-4216-9380-c604340451f1.png" width="25%" />
+  <img src="https://user-images.githubusercontent.com/11074704/183487990-ebf074ca-d684-4bbf-8be8-bb7ef6ac2acf.PNG" />
 </p>
 
 ### Zeitplan
