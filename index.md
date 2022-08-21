@@ -39,5 +39,4 @@ Veranstalterin der SkaterNight Landau ist:
 Kaycee Hesse
 hessekaycee-fff@gmx.de
 ```
-
-![UnterstuetztDurch](https://user-images.githubusercontent.com/11074704/182197180-f90a2e64-35b1-48a5-aa5b-ea93e1e32136.png)
+![Unterstützenden Logos Website](https://user-images.githubusercontent.com/11074704/185806494-bea15d85-d19f-4971-a717-6e4b4733a169.png)
