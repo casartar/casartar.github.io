@@ -31,7 +31,9 @@ Für ein gutes Miteinander sind ein paar Regeln zu beachten:
 3. Sorgt bitte dafür, dass die Strecke frei von Müll bleibt.
 4. Achtet aufeinander und vor allem auf die Kinder.
 
+### Informationen für Anwohnende
 
+<kbd> <br> [Information für Anwohnende - SkaterNight.pdf](https://github.com/casartar/casartar.github.io/files/9397194/Information.fur.Anwohnende.-.SkaterNight.pdf) <br> </kbd>
 
 ### Veranstalterin
 Veranstalterin der SkaterNight Landau ist:
