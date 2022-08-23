@@ -33,7 +33,7 @@ Für ein gutes Miteinander sind ein paar Regeln zu beachten:
 
 ### Informationen für Anwohnende
 
-<kbd> <br> [Information für Anwohnende - SkaterNight.pdf](https://github.com/casartar/casartar.github.io/files/9397194/Information.fur.Anwohnende.-.SkaterNight.pdf) <br> </kbd>
+[Information für Anwohnende - SkaterNight.pdf](https://github.com/casartar/casartar.github.io/files/9397194/Information.fur.Anwohnende.-.SkaterNight.pdf)
 
 ### Veranstalterin
 Veranstalterin der SkaterNight Landau ist:
